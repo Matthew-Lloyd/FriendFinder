@@ -2,7 +2,7 @@
 var friends = [
     {
         name: "Ahmed",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxMTQ4MzY2Nl5BMl5BanBnXkFtZTgwMzAxOTY3MjI@._V1_UY317_CR13,0,214,317_AL_.jpg",
         scores: [
             5,
             1,
@@ -34,7 +34,7 @@ var friends = [
     },
     {
         name: "Kratos",
-        photo: "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjt1eu4x7rYAhVK04MKHVuoAfgQjRwIBw&url=https%3A%2F%2Fwww.psu.com%2Fnews%2Fin-the-spotlight-kratos%2F&psig=AOvVaw1M6C1XJZpsY23T0AgJL2Yv&ust=1515026353517429",
+        photo: "https://pbs.twimg.com/profile_images/578997180708429825/t389plOb_400x400.jpeg",
         scores: [
             4,
             2,
@@ -46,6 +46,22 @@ var friends = [
             3,
             3,
             5
+        ]
+    },
+    {
+        name: "Diana",
+        photo: "https://pbs.twimg.com/profile_images/716602420676190208/OeElApDQ.jpg",
+        scores: [
+            1,
+            1,
+            1,
+            1,
+            5,
+            5,
+            5,
+            1,
+            5,
+            1
         ]
     },
 ];

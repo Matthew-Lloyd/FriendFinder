@@ -28,7 +28,8 @@ module.exports = function (app) {
         //         return a + b;
         //     }
         //     console.log(matchCompare);
-        res.json(friends[1])
+        res.json(friends[Math.floor((Math.random()* friends.length) + 1)]);
+        // res.json(friends[3]);
 
 
             
